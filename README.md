@@ -1,0 +1,1 @@
+# kustomize-dup-2
